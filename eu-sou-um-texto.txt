@@ -1,0 +1,2 @@
+Este texto foi atualizado para
+estar no branch branch1
