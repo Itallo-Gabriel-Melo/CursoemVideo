@@ -1,3 +1,4 @@
 Nome do usuario:
 Senha do usuario:
 Idade:
+Data de nascimento:
